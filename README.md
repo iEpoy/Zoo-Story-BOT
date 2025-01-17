@@ -1,5 +1,6 @@
 # Zoo Story BOT
 
+Share tool auto ZOO Story BOT using python
 
 # Zoo Story Bot Airdrop 
 
@@ -8,7 +9,9 @@
 # BOT FEATURE
 
 ✔️ Auto roll call
+
 ✔️ Auto buy, upgrade pets
+
 ✔️ Auto feeding
 
 
@@ -22,4 +25,5 @@ If you'd like to support my work and help me create more bots:
 **star** this repository or consider buying me a coffee:
 
 EVM : `0x73E5cB9897DBD3e04Bd1Dd7280d3921Ae9d29131`
+
 SOLANA : `VVHutR8CEKDd6jiHPbtFwDFG753ve9y1sbPy59inhiw`  
